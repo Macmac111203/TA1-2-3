@@ -1,1 +1,0 @@
-ALTER TABLE tasks ADD COLUMN file_name VARCHAR(255) NULL AFTER due_date; 
